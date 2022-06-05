@@ -24,7 +24,7 @@ The challenge is to build the back end for an e-commerce site. Taking a working 
 Run on command line: `node server.js`
     
 ## Screenshot:  
-![Team-Profile-Generator](/public/assets/images/ScreenshotEstrada.png)  
+![Team-Profile-Generator](/screenshot.png)  
   
 ## Contributions
 H. Mark Estrada
