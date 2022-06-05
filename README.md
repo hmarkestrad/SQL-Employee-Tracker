@@ -24,7 +24,7 @@ Developers frequently have to create interfaces that make it easy for non-develo
 Run on command line: `node server.js`
     
 ## Screenshot:  
-![Team-Profile-Generator](/public/assets/images/ScreenshotEstrada.png)  
+![Team-Profile-Generator](/screenshot.png)  
   
 ## Contributions
 H. Mark Estrada
