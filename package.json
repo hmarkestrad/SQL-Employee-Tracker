@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker-estrada",
+  "version": "1.0.0",
+  "description": "[![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "inquirer-confirm": "^2.0.7",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmarkestrad/Employee-Tracker-Estrada.git"
+  },
+  "author": "H. Mark Estrada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmarkestrad/Employee-Tracker-Estrada/issues"
+  },
+  "homepage": "https://github.com/hmarkestrad/Employee-Tracker-Estrada#readme"
+}
