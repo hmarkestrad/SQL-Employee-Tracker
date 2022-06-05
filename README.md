@@ -18,7 +18,7 @@
 - [Questions](#questions)
   
 ## Description
-Developers frequently have to create interfaces that make it easy for non-developers to view and interact with information stored in databases. The challenge this week is to build a command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.  
+The challenge is to build the back end for an e-commerce site. Taking a working Express.js API and configure it to use Sequelize to interact with a MySQL database. 
   
 ## Usage
 Run on command line: `node server.js`
