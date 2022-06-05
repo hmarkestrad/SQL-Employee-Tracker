@@ -2,9 +2,9 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/repo-size/hmarkestrad/SQL-Employee-Tracker"/>
-<img src="https://img.shields.io/github/languages/top/SQL-Employee-Tracker"/>
-<img src="https://img.shields.io/github/issues/SQL-Employee-Tracker"/>
-<img src="https://img.shields.io/github/last-commit/SQL-Employee-Tracker"/>
+<img src="https://img.shields.io/github/languages/top/hmarkestrad/SQL-Employee-Tracker"/>
+<img src="https://img.shields.io/github/issues/hmarkestrad/SQL-Employee-Tracker"/>
+<img src="https://img.shields.io/github/last-commit/hmarkestrad/SQL-Employee-Tracker"/>
 </p>
   
 ## Table of Contents
